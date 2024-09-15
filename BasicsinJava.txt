@@ -1,0 +1,10 @@
+Input Libraries has many built-in function that we are gonna use to do important tasks
+
+using namespace std; :- allow to not write std::cout and many function repeatedly
+
+cout is under std and under iostream
+
+Libraries :- I/O, Math, String
+
+int, long, long long
+float, double
